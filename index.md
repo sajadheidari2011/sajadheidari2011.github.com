@@ -1,17 +1,27 @@
-بسم الله الرحمن الرحیم
-About me
-سجاد حیدری هستم
-دانشجوی کارشناسی نرم افزار  از دانشگاه پیام نور
+in the name of God
 
-متولد 1376 در  شهر مقدس قم شهر کریمه اهل البیت حضرت فاطمه معصومه هستم.
-به شدت علاقه مند هستم تا زبان برنامه نویسی پایتون را یاد بگیرم و در حال یادگیری آن هستم
-```about me
-دارای دیپلم در رشته ریاضی  که در سال 1394 اخذ نموده ام
-سال ورودم به  دانشگاه برای تحصیل در مقطع کارشناسی شدم
-از آن جایی که دانشجوی کارشناسی هستم متاسفانه نتوانستم در زمینه تحصیلی خود سابقه کاری درست کنم و سابقه خاصی هم ندارم
+I am Sajjad Heydari.
+
+Undergraduate student of software from Payame Noor University
+
+I was born in 1997 in the holy city of Qom, the city of Crimea, the family of Hazrat Fatemeh Masoumeh.
+
+I'm very interested in learning the Python programming language and I'm learning it.
+about me
+
+Has a diploma in mathematics that I obtained in 1394.
+
+I entered the university to study for a bachelor's degree.
+
+Since I am an undergraduate student, unfortunately I could not create a work history in my field of study and I do not have a specific background.
+
 Support or Contact
-بنده دارای ایمیل زیر هستم
-Sajadheidari2011@gmail.com
-Sajadheidari2011@email.com
-در  https://quera.ir  نیز داری صفحه هستم
 
+I have the following email.
+
+https://Sajadheidari2011@gmail.com
+https://Sajadheidari2011@email.com
+
+I also have a page at https://quera.ir.
+
+https://quera.ir/profile/sajadheidari2011
